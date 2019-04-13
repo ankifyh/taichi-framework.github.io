@@ -7,6 +7,11 @@ layout: post
 
 [For English users](changelog)
 
+### 2019/4/13 version: 82
+
+- 新模块：进程锁 / 悟空加速 / MyAndroidToolsXposed / 禁止调节音量 / 小熊跑步 / AppContext
+- 模块更新：对话框取消
+
 ### 2019/4/12 version 80
 
 - 新模块：你长按复制访问 0.0.2 / QQ音乐通知 / QQRepeater 1.1.2 / legend 模块
