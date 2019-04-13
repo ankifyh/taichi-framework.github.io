@@ -9,6 +9,10 @@ layout: post
 
 ### 2019/4/13 version: 82
 
+- 新模块：AndroidIDChanger / 设备ID修改器 / AnInputHook （仅magisk版可用）
+
+### 2019/4/13 version: 82
+
 - 新模块：进程锁 / 悟空加速 / MyAndroidToolsXposed / 禁止调节音量 / 小熊跑步 / AppContext
 - 模块更新：对话框取消
 
