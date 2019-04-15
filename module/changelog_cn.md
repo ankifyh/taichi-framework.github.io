@@ -11,7 +11,7 @@ layout: post
 
 - 新模块：应用管理Xposed 仅9.0可用。
 - 新模块：PerfectColorBar
-- 新模块：Flat Style Bar Indicators
+- 新模块：Flat Style Bar Indicators 以上三个模块必须太极主程序版本号高于 5.1.8.4 
 - 新模块：ScanLogin / Undo撤销 / 全民辅助
 - 模块更新：微信密友 1.1.3
 
