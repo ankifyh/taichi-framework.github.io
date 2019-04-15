@@ -7,6 +7,14 @@ layout: post
 
 [For English users](changelog)
 
+### 2019/4/15 version: 89
+
+- 新模块：应用管理Xposed 仅9.0可用。
+- 新模块：PerfectColorBar
+- 新模块：Flat Style Bar Indicators
+- 新模块：ScanLogin / Undo撤销 / 全民辅助
+- 模块更新：微信密友 1.1.3
+
 ### 2019/4/13 version: 82
 
 - 新模块：AndroidIDChanger / 设备ID修改器 / AnInputHook （仅magisk版可用）
