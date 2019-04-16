@@ -7,6 +7,11 @@ layout: post
 
 [For English users](changelog)
 
+### 2019/4/16 version: 90
+
+- 新模块：知乎助手
+- 模块更新：全民辅助 1.1 / Q++1.3.1 
+
 ### 2019/4/15 version: 89
 
 - 新模块：应用管理Xposed 仅9.0可用。
