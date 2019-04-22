@@ -3,6 +3,8 @@ title: 太极模块下载
 layout: post
 ---
 
+## 模块下载
+
 [For English users](module.md)
 
 太极支持众多的模块，以下的所有模块都是经过严格验证的，可以放心使用。注意，模块右上角带有 ™ 标记的，代表这个模块只有 **T**aiChi-**M**agisk才能使用；这是正常现象。如果下面的模块列表没有你需要使用的模块，可以[提交适配](https://github.com/taichi-framework/TaiChi/issues)。
