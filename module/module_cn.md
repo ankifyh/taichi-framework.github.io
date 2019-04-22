@@ -1,4 +1,3 @@
-# 模块
 ---
 title: 太极模块下载
 layout: post
