@@ -194,67 +194,68 @@
 |[Undo撤销™][Undo撤销]|1.0.4| 给输入框添加撤销功能
 
 
-[MDWechat]: https://taichi.ctfile.com/fs/19604958-367085203
-[微信学英语]: https://taichi.ctfile.com/fs/19604958-367085260
-[畅玩微信]: https://taichi.ctfile.com/fs/19604958-367085332
-[微X模块]: https://taichi.ctfile.com/fs/19604958-367085218
-[微信增强插件]: https://taichi.ctfile.com/fs/19604958-367085269
-[微信斗图神器]: https://taichi.ctfile.com/fs/19604958-367085308
+[MDWechat]: hhttp://tc5.us/file/19604958-373541396
+[微信学英语]: http://tc5.us/file/19604958-397155150
+[畅玩微信]: http://tc5.us/file/19604958-397149502
+[微X模块]: http://tc5.us/file/19604958-382638499
+[微信增强插件]: http://tc5.us/file/19604958-367085269
+[微信斗图神器]: http://tc5.us/file/19604958-372374527
 [微信群消息助手]: https://taichi.ctfile.com/fs/19604958-367085323
 [微信分组模块]: https://taichi.ctfile.com/fs/19604958-367085233
-[微群发助手]: https://taichi.ctfile.com/fs/19604958-367085329
-[微信QQ防止撤回]: https://taichi.ctfile.com/fs/19604958-367085236
-[微信红包]: https://taichi.ctfile.com/fs/19604958-367085311
-[V++模块]: https://taichi.ctfile.com/fs/19604958-367085227
-[微信助手]: https://taichi.ctfile.com/fs/19604958-367085251
-[微信密友]: https://taichi.ctfile.com/fs/19604958-367085293
+[微群发助手]: http://tc5.us/file/19604958-367085323
+[微信QQ防止撤回]: http://tc5.us/file/19604958-367085236
+[微信红包]: http://tc5.us/file/19604958-367085311
+[V++模块]: http://tc5.us/file/19604958-376029820
+[微信助手]: http://tc5.us/file/19604958-396630254
+[微信密友]: http://tc5.us/file/19604958-373541396
 
-[QQ净化]: https://taichi.ctfile.com/fs/19604958-367084783
-[ColorQQ]: https://taichi.ctfile.com/fs/19604958-367084726
-[QX模块]: https://taichi.ctfile.com/fs/19604958-367084801
-[QQ斗图神器]: https://taichi.ctfile.com/fs/19604958-367084777
-[QQHelper]: https://taichi.ctfile.com/fs/19604958-367084762
-[Q++模块]: https://taichi.ctfile.com/fs/19604958-367084744
-[baseapk+wifi模块]: https://taichi.ctfile.com/fs/19604958-367084711
-[QQ红包]: https://taichi.ctfile.com/fs/19604958-367084774
-[QQRepeater]: https://taichi.ctfile.com/fs/19604958-367084765
-[QQNotified]: https://taichi.ctfile.com/fs/19604958-367084729
+[QQ净化]: http://tc5.us/file/19604958-393403989
+[ColorQQ]: http://tc5.us/file/19604958-397155554
+[QX模块]: http://tc5.us/file/19604958-392202019
+[QQ斗图神器]: http://tc5.us/file/19604958-367084777
+[QQHelper]: http://tc5.us/file/19604958-377252594
+[Q++模块]: http://tc5.us/file/19604958-386742707
+[baseapk+wifi模块]: http://tc5.us/file/19604958-367084711
+[QQ红包]: http://tc5.us/file/19604958-367084774
+[QQRepeater]: http://tc5.us/file/19604958-396011909
+[QQNotified]: http://tc5.us/file/19604958-389873930
 
-[音量放大器]: https://taichi.ctfile.com/fs/19604958-367085836
+[音量放大器]: https://taichi.ctfile.com/fs/19604958-372375541
 [云村清洁工]: https://taichi.ctfile.com/fs/19604958-367085803
 [网易云音乐模块]: https://taichi.ctfile.com/fs/19604958-367085815
 
-[抖音插件]: https://www.lanzous.com/i38cnij
 [抖音助手]: https://taichi.ctfile.com/fs/19604958-367085422
-[3000模组]: https://taichi.ctfile.com/fs/19604958-367085398
+[3000模组]: https://taichi.ctfile.com/fs/19604958-390430879
 
-[锤锤]: https://taichi.ctfile.com/fs/19604958-367085908
-[钉钉打卡]: https://taichi.ctfile.com/fs/19604958-367084702
+[锤锤]: https://taichi.ctfile.com/fs/19604958-390430879
+[钉钉打卡]: https://taichi.ctfile.com/fs/19604958-392203815
 [钉钉红包]: https://taichi.ctfile.com/fs/19604958-367085890
-[钉钉助手]: https://taichi.ctfile.com/fs/19604958-367085887
+[钉钉助手]: https://taichi.ctfile.com/fs/19604958-375273416
 
-[大圣净化]: https://taichi.ctfile.com/fs/19604958-367085371
+
+
+[大圣净化]: https://taichi.ctfile.com/fs/19604958-396011706
 [AD快消]: https://taichi.ctfile.com/fs/19604958-367085347
 [ByeAD]: https://taichi.ctfile.com/fs/19604958-367085359
 [悟空加速]: https://taichi.ctfile.com/fs/19604958-367085380
 
+
 [核心破解]: https://taichi.ctfile.com/fs/19604958-367085722
 [边缘手势]: https://taichi.ctfile.com/fs/19604958-367085791
 [绿色守护]: https://taichi.ctfile.com/fs/19604958-367085740
-[应用控制器]: https://www.lanzous.com/i2zjvbi
-[吃米]: https://taichi.ctfile.com/fs/19604958-367085665
-[验证码提取器]: https://taichi.ctfile.com/fs/19604958-367085830
-[Scene]: https://taichi.ctfile.com/fs/19604958-367085590
+[吃米]: ​​https://taichi.ctfile.com/fs/19604958-384016351
+[验证码提取器]: https://taichi.ctfile.com/fs/19604958-389873832
+[Scene]: https://taichi.ctfile.com/dir/19604958-33930598-9cbfab/
 [MusciNotification]: https://taichi.ctfile.com/fs/19604958-367085566
-[Sleep]: https://taichi.ctfile.com/fs/19604958-367085593
+[Sleep]: https://taichi.ctfile.com/fs/19604958-374076281
 [无障碍Daemon]: https://taichi.ctfile.com/fs/19604958-367085719
 [PerAppHacking]: https://taichi.ctfile.com/fs/19604958-367085581
 [移除截屏延迟]: https://taichi.ctfile.com/fs/19604958-367085725
-[重力工具箱P]: https://taichi.ctfile.com/fs/19604958-367085767
+[重力工具箱P]: https://taichi.ctfile.com/fs/19604958-372375863
 [MIUIAODNotification]: https://taichi.ctfile.com/fs/19604958-367085563
-[一加熄屏增强]: https://taichi.ctfile.com/fs/19604958-367085629
-[flyme助手]: https://taichi.ctfile.com/fs/19604958-367085536
-[hookcoloros]: https://taichi.ctfile.com/fs/19604958-367085548
+[一加熄屏增强]: https://taichi.ctfile.com/fs/19604958-372376939
+[flyme助手]: https://taichi.ctfile.com/fs/19604958-375645500
+[hookcoloros]: https://taichi.ctfile.com/fs/19604958-377252396
 [instantunlock2]:https://taichi.ctfile.com/fs/19604958-367085551
 [NekoSms]: https://taichi.ctfile.com/fs/19604958-367085572
 [NoLockhome]: https://taichi.ctfile.com/fs/19604958-367085575 
@@ -269,13 +270,13 @@
 [myandroidtoolsxposed]: https://taichi.ctfile.com/fs/19604958-367085569
 [PerfectColorBar1]: https://taichi.ctfile.com/fs/19604958-367085584 
 [PerfectColorBar2]: https://taichi.ctfile.com/fs/19604958-367085587
-[Flat Style Bar Indicators]: https://taichi.ctfile.com/fs/19604958-367085545 
-[进程锁]: https://taichi.ctfile.com/fs/19604958-367085743
+[Flat Style Bar Indicators]: http://tc5.us/file/19604958-382605659
+[进程锁]: ​https://taichi.ctfile.com/fs/19604958-372376679
 
-[模拟位置]: https://www.lanzous.com/i38cxub
-[Cataclysm]: https://www.lanzous.com/i30hntc
+[模拟位置]: ​https://taichi.ctfile.com/fs/19604958-367085914
+[Cataclysm]: https://taichi.ctfile.com/fs/19604958-367085911
 
-[应用变量]: https://www.lanzous.com/i2zjxed
+[应用变量]: https://taichi.ctfile.com/fs/19604958-367085872
 [device faker]: https://taichi.ctfile.com/fs/19604958-367085857
 [device emulator]: https://taichi.ctfile.com/fs/19604958-367085854
 [AndroidIDChanger]: https://taichi.ctfile.com/fs/19604958-367085851
@@ -283,11 +284,11 @@
 [IMEI Masker]: https://taichi.ctfile.com/fs/19604958-367085863
 
 
-[运动加速器]: https://www.lanzous.com/i32g3fe
-[运动模拟器]: https://www.lanzous.com/i38d39g
-[运动修改器]: https://www.lanzous.com/i38d38f
+[运动加速器]: https://taichi.ctfile.com/fs/19604958-367085473
+[运动模拟器]: https://taichi.ctfile.com/fs/19604958-367085482
+[运动修改器]: https://taichi.ctfile.com/fs/19604958-367085464
 
-[知乎助手]: https://taichi.ctfile.com/fs/19604958-367085125
+
 [BluedHook]: https://taichi.ctfile.com/fs/19604958-367084834
 [指纹支付]: https://taichi.ctfile.com/fs/19604958-367085086
 [NoLitter]: https://taichi.ctfile.com/fs/19604958-367084939
@@ -295,11 +296,10 @@
 [AllTrans]: https://taichi.ctfile.com/fs/19604958-367084795
 [AppTranslator]: https://taichi.ctfile.com/fs/19604958-367084819
 [去你大爷的内置浏览器]: https://taichi.ctfile.com/fs/19604958-367085029
-[全民K歌辅助]: https://taichi.ctfile.com/fs/19604958-367085023
+[全民K歌辅助]: https://taichi.ctfile.com/fs/19604958-396027679
 [App Locale 2]: https://taichi.ctfile.com/fs/19604958-367084813
-[Google App 助手]: https://www.lanzous.com/i37zcna
-[Gboard]: https://www.lanzous.com/i37zcbi
-[对话框取消]: https://taichi.ctfile.com/fs/19604958-367085065
+[Gboard]: https://taichi.ctfile.com/fs/19604958-367084856
+[对话框取消]: https://taichi.ctfile.com/fs/19604958-382639397
 [Wifi模拟器]: https://taichi.ctfile.com/fs/19604958-367084975
 [连接服务修改器]: https://taichi.ctfile.com/fs/19604958-367085137
 [假装分享]: https://taichi.ctfile.com/fs/19604958-367085008
@@ -308,14 +308,14 @@
 [XPrivacyLua]: https://taichi.ctfile.com/fs/19604958-367084990
 [SnapFreedom]: https://taichi.ctfile.com/fs/19604958-367084957
 [XInsta]: https://taichi.ctfile.com/fs/19604958-367084981
-[CoolApkEx]: https://taichi.ctfile.com/fs/19604958-367084840
+[CoolApkEx]: https://taichi.ctfile.com/fs/19604958-375439682
 [允许截图]: https://taichi.ctfile.com/fs/19604958-367085011
 [阻止更新]: https://taichi.ctfile.com/fs/19604958-367085152
 [JustTrustMe]: https://taichi.ctfile.com/fs/19604958-367084897
 [应用宝Hook]: https://taichi.ctfile.com/fs/19604958-367085077
 [LuckyHooker]: https://taichi.ctfile.com/fs/19604958-367084921
 [Maxlock]: https://taichi.ctfile.com/fs/19604958-367084930
-[淘饭饭]: https://taichi.ctfile.com/fs/19604958-367085101
+[淘饭饭]: https://taichi.ctfile.com/fs/19604958-372374309
 [AIDEHelper]: https://taichi.ctfile.com/fs/19604958-367084804
 [培训机构识别 VirtualXposed]: https://taichi.ctfile.com/fs/19604958-367085053
 [Grindr]: https://taichi.ctfile.com/fs/19604958-367084891
@@ -323,19 +323,17 @@
 [YouTube AdAway]: https://taichi.ctfile.com/fs/19604958-367084999
 [全部成为F]: https://taichi.ctfile.com/fs/19604958-367085014
 [youtubebackgroundplayback]: https://taichi.ctfile.com/fs/19604958-367084993
-[颜咚]: https://www.lanzous.com/i2zjvli
 [哔哩布丁]: https://taichi.ctfile.com/fs/19604958-367085062
 [LocationReportEnabler]: https://taichi.ctfile.com/fs/19604958-367084918
 [谁动了我的剪切板]: https://taichi.ctfile.com/fs/19604958-367085122
 [酷狗音乐]: https://www.lanzous.com/i38e6fg
 [ChromePie]: https://taichi.ctfile.com/fs/19604958-367084837
 [反射大师]: https://taichi.ctfile.com/fs/19604958-367085035
-[你才长按复制访问]: https://taichi.ctfile.com/fs/19604958-367085005
+[你才长按复制访问]: https://taichi.ctfile.com/fs/19604958-374664092
 [legend模块]: https://taichi.ctfile.com/fs/19604958-367084907
 [AppContext]: https://taichi.ctfile.com/fs/19604958-367084810
 [哔哩漫游]: https://taichi.ctfile.com/fs/19604958-367085050
 [AnInputHook]: https://taichi.ctfile.com/fs/19604958-367091498
-[麻花助手]: https://taichi.ctfile.com/fs/19604958-367085182
 [HushSms]: https://taichi.ctfile.com/fs/19604958-367084879
 [DroidSward]: https://taichi.ctfile.com/fs/19604958-367084855
 [BlockSecureFlag]: https://taichi.ctfile.com/fs/19604958-367084822
