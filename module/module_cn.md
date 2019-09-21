@@ -6,43 +6,42 @@
 
 ### 微信相关的模块
 
-
 | 模块名 | 版本| 简介
 | --- | ---| --- 
-|[MDWechat][MDWechat] | 3.4.0 |微信美化模块 
-|[微信学英语][微信学英语] | 1.7.9 | 微信和QQ自动翻译模块 
-|[微X模块][微X模块] |2.0| 微信功能拓展模块 
-|[畅玩微信][畅玩微信] | 1.8.8.9|微信功能拓展模块 
+|[MDWechat][MDWechat] | 3.5.0 |微信美化模块 
+|[微信学英语][微信学英语] | 1.8.7  | 微信和QQ自动翻译模块 
+|[微X模块][微X模块] |2.3| 微信功能拓展模块 
+|[畅玩微信][畅玩微信] | 1.9.1|微信功能拓展模块 
 |[微信增强插件][微信增强插件] | 1.9.1|微信功能拓展模块 
-|[微信斗图神器][微信斗图神器]|7.0.3| 微信表情功能增强
-|[微信群消息助手][微信群消息助手]|1.4.4| 微信群消息功能增强
-|[微信分组模块][微信分组模块]| 7.0.3|微信消息分组
+|[微信斗图神器][微信斗图神器]|7.0.4| 微信表情功能增强
+|[微信群消息助手][微信群消息助手]|1.4.5| 微信群消息功能增强
+|[微信分组模块][微信分组模块]| 7.0.6|微信消息分组
 |[微群发助手][微群发助手]|7.0.3| 微信消息群发增强
 |[微信QQ防止撤回][微信QQ防止撤回]|1.0| 微信QQ消息防撤回
 |[微信红包][微信红包]|1.4.2| 微信抢红包
-|[V++模块][V++模块]|1.0.6| 微信机器人 
-|[微信助手][微信助手]|1.1.3| 微信功能增强
-|[微信密友][微信密友]|1.1.3| 微信联系人隐藏
+|[V++模块][V++模块]|1.0.9| 微信机器人 
+|[微信助手][微信助手]|1.1.4| 微信功能增强
+|[微信密友][微信密友]|1.2.2| 微信联系人隐藏
 
 ### QQ相关的模块
 
 | 模块名 | 版本| 简介 
 | --- | ---| --- 
-|[QQ净化][QQ净化]| 3.5.0|隐藏QQ相关界面 
-|[ColorQQ][ColorQQ]| 1.3.0| QQ美化模块 
-|[QX模块][QX模块]|1.2.1| QQ功能增强 
+|[QQ净化][QQ净化]| 4.8.5|隐藏QQ相关界面 
+|[ColorQQ][ColorQQ]|1.4.0| QQ美化模块 
+|[QX模块][QX模块]|2.1| QQ功能增强 
 |[QQ斗图神器][QQ斗图神器]| 2.0 | QQ表情功能增强 
-|[QQHelper][QQHelper]|1.3.1| QQ功能增强 
-|[Q++模块][Q++模块]|1.3.1| QQ红包/群管
+|[QQHelper][QQHelper]|1.3.2| QQ功能增强 
+|[Q++模块][Q++模块]|1.3.4| QQ红包/群管
 |[baseapk+wifi模块][baseapk+wifi模块]|1.0.3| QQ 文件上传辅助
-|[QQRepeater][QQRepeater]|1.1.2| QQ复读机模块 
-|[QQNotified][QQNotified]|0.1.2| QQ僵尸粉清理 
+|[QQRepeater][QQRepeater]|3.6.0| QQ复读机模块 
+|[QQNotified][QQNotified]|0.2.0| QQ僵尸粉清理 
 
 ### 网易云音乐相关的模块
 
 | 模块名 | 版本| 简介 
 | --- | ---| --- 
-|[音量放大器][音量放大器]|0.0.31| 音量放大器 
+|[音量放大器][音量放大器]|2.8.2| 音量放大器 
 |[云村清洁工][云村清洁工]|2.7.0| 网易云界面清理 
 |[网易云音乐模块][网易云音乐模块]|2.8.2| 网易云增强模块 
 
@@ -50,14 +49,14 @@
 
 | 模块名 | 版本| 简介 
 | --- | ---| --- 
-|[抖音助手™][抖音助手]| 5.0| 抖音功能增强 
-|[3000模组][3000模组]|6.0|抖音功能增强 
+|[抖音助手™][抖音助手]| 5.1.0| 抖音功能增强 
+|[3000模组][3000模组]|11.11|抖音功能增强 
 
 ## 钉钉相关
 
 | 模块名 |版本| 介绍 
 | --- | ---| --- 
-|[钉钉助手][钉钉助手]| 1.1.1|钉钉打卡 
+|[钉钉助手][钉钉助手]| 1.2.6|钉钉打卡 
 |[锤锤][锤锤]|0.1|模块介绍 
 |[钉钉红包][钉钉红包]|1.3.6| 抢红包 
 
@@ -65,7 +64,7 @@
 
 | 模块名 |版本| 介绍 
 | --- | ---| --- 
-|[大圣净化][大圣净化]| 1.8.4|各种姿势去广告 
+|[大圣净化][大圣净化]| 1.9.0|各种姿势去广告 
 |[AD快消][AD快消]| 1.4.5|启动去启动页广告 
 |[ByeAD][ByeAD]|1.2| 去除网易类客户端广告 
 |[悟空加速][悟空加速]|1.8.4| 去除网易类客户端广告 
@@ -77,19 +76,19 @@
 | --- | ---| --- 
 |[核心破解™][核心破解]|1.2.0|降级安装/不同签名安装 
 |[边缘手势™][边缘手势]|5.4.2|系统手势功能增强 
-|[绿色守护™][绿色守护]|4.6.3| 后台进程管控
-|[吃米™][吃米]|2.4.17| MIUI系统功能增强 
-|[验证码提取器™][验证码提取器]|2.0.23| 自动提取短信验证码 
-|[Scene™][Scene]|2.0| 微工具箱拓展模块
+|[绿色守护™][绿色守护]|4.7.1| 后台进程管控
+|[吃米™][吃米]|2.6.09| MIUI系统功能增强 
+|[验证码提取器™][验证码提取器]|2.1.2| 自动提取短信验证码 
+|[Scene™][Scene]|2.6.2| 微工具箱拓展模块
 |[MusciNotification™][MusciNotification]|1.0| 给播放器更好的音乐通知
-|[Sleep™][Sleep]|1.0.0| 强制关闭手机睡觉 
+|[Sleep™][Sleep]|1.1| 强制关闭手机睡觉 
 |[无障碍Daemon™][无障碍Daemon]|1.0.2| 避免无障碍服务被关闭 
 |[PerAppHacking™][PerAppHacking]|1.5| 应用联网控制等 
 |[移除截屏延迟™][移除截屏延迟]| 2.0| 秒截屏 
-|[重力工具箱 Android P专用™][重力工具箱P]|beta8|综合性系统增强模块 
+|[重力工具箱 Android P专用™][重力工具箱P]|beta9|综合性系统增强模块 
 |[MIUIAODNotification™][MIUIAODNotification]|0.1.2|MIUI息屏音乐通知 
-|[一加熄屏增强™][一加熄屏增强]|2.0.1|一加息屏功能增强 
-|[flyme助手™][flyme助手]|3.2.1|魅族系统增强 
+|[一加熄屏增强™][一加熄屏增强]|2.3|一加息屏功能增强 
+|[flyme助手™][flyme助手]|3.2.6|魅族系统增强 
 |[hookcoloros™][hookcoloros]|1.3| Oppo系统增强 
 |[instantunlock2™][instantunlock2]|2.1.0|快速人脸解锁 
 |[NekoSms™][NekoSms]|0.17.0|垃圾短信过滤 
@@ -106,7 +105,7 @@
 |[PerfectColorBar 小米/华为™][PerfectColorBar1]|1.5.2| 系统导航栏美化 
 |[PerfectColorBar 非小米/华为™][PerfectColorBar2]|1.5.3| 系统导航栏美化 
 |[Flat Style Bar Indicators™][Flat Style Bar Indicators]|5.4.3|一加息屏功能增强 
-|[进程锁™][进程锁]|3.1.2| 防止进程被杀 
+|[进程锁™][进程锁]|3.1.6| 防止进程被杀 
 
 ### 虚拟定位
 
@@ -139,7 +138,6 @@
 
 | 模块名 |版本| 介绍 
 | --- | ---| --- 
-|知乎助手|1.0.1|知乎去广告模块
 |[BluedHook][BluedHook]|1.1.3|Blued软件增强模块 
 |[指纹支付][指纹支付]|3.9.2| 让带指纹识别的手机支持指纹支付 
 |[全部成为F][全部成为F]|59| 让手机的所有文字都显示为F
@@ -152,23 +150,23 @@
 |[酷狗音乐][酷狗音乐]||模块介绍 
 |[ChromePie][ChromePie]|0.7.4|给Chrome浏览器添加菜单 
 |[反射大师][反射大师]|1.9.1| 应用界面调试工具
-|[对话框取消][对话框取消]|1.6.9|强制取消显示部分对话框 
+|[对话框取消][对话框取消]|1.7.1|强制取消显示部分对话框 
 |[Wifi模拟器][Wifi模拟器]|1.0|Wifi信息模拟 
 |[连接服务修改器][连接服务修改器]|1.4|伪装为wifi或者数据流量 
 |[假装分享][假装分享]|1.2.6| 假装分享 
-|[全民K歌辅助][全民K歌辅助]|1.2| 全民K歌功能增强 
+|[全民K歌辅助][全民K歌辅助]|2.0| 全民K歌功能增强 
 |[文本自定义][文本自定义]|2.3.1|任意文本自动替换 
 |[XPrivacyLua][XPrivacyLua]|1.24.2|隐私保护 
 |[SnapFreedom][SnapFreedom]|2.9|Snapchat功能增强 
 |[XInsta][XInsta]|2.1.0| Instragram 功能增强 
-|[CoolApkEx][CoolApkEx]|1.2|让酷安直接升级太极内应用 
+|[CoolApkEx][CoolApkEx]|2.0|让酷安直接升级太极内应用 
 |[允许截图™][允许截图]|1.2|取消某些界面无法截图的限制 
 |[阻止更新][阻止更新]|1.3| 阻止App自动更新 
 |[JustTrustMe][JustTrustMe]|.2| 去除HTTPS证书验证
 |[应用宝Hook][应用宝Hook]|1.6|应用宝免流 
 |[LuckyHooker][LuckyHooker]|1.1|去除某些视频应用的广告 
 |[Maxlock][Maxlock]|7.0.4| 给APP添加应用锁
-|[淘饭饭][淘饭饭]|1.2.4|淘宝返利模块 
+|[淘饭饭][淘饭饭]|1.3.6|淘宝返利模块 
 |[AIDEHelper][AIDEHelper]|1.2|AIDE功能增强 
 |[培训机构识别 VirtualXposed][培训机构识别 VirtualXposed]|1.3|给招聘类应用自动识别培训机构 
 |[Grindr][Grindr]|5.5.1.1|Grindr功能增强 
@@ -178,12 +176,11 @@
 |[哔哩布丁™][哔哩布丁]|1.5.8|哔哩哔哩功能增强 
 |[LocationReportEnabler™][LocationReportEnabler]|1.4.0|LocationReportEnabler 
 |[谁动了我的剪切板™][谁动了我的剪切板]|1.0| 监控哪个应用在使用剪切板
-|[你才长按复制访问™][你才长按复制访问]|0.0.2| 去除微信内置浏览器对链接的拦截
+|[你才长按复制访问™][你才长按复制访问]|0.0.3| 去除微信内置浏览器对链接的拦截
 |[legend模块™][legend模块]|| 某漫画增强模块
 |[AppContext™][AppContext]|0.4.7.2| Tasker App的附加模块
 |[哔哩漫游™][哔哩漫游]|1.07| 哔哩哔哩增强模块
 |[AnInputHook™][AnInputHook]|| 监控App的输入
-|[麻花助手™][麻花助手]|0.7.0_beta  | 麻花影视增强模块 
 |[HushSms™][HushSms]|2.7.7| 系统短信增强模块
 |[DroidSward™][DroidSward]|1.0.4| App界面调试工具 
 |[BlockSecureFlag™][BlockSecureFlag]|1.4| 取消界面无法截图的限制
@@ -194,48 +191,48 @@
 |[Undo撤销™][Undo撤销]|1.0.4| 给输入框添加撤销功能
 
 
-[MDWechat]: hhttp://tc5.us/file/19604958-373541396
+[MDWechat]: https://tc5.us/file/19604958-373540360
 [微信学英语]: http://tc5.us/file/19604958-397155150
 [畅玩微信]: http://tc5.us/file/19604958-397149502
 [微X模块]: http://tc5.us/file/19604958-382638499
 [微信增强插件]: http://tc5.us/file/19604958-367085269
 [微信斗图神器]: http://tc5.us/file/19604958-372374527
-[微信群消息助手]: https://taichi.ctfile.com/fs/19604958-367085323
-[微信分组模块]: https://taichi.ctfile.com/fs/19604958-367085233
-[微群发助手]: http://tc5.us/file/19604958-367085323
+[微信群消息助手]: https://tc5.us/file/19604958-398541698
+[微信分组模块]: https://tc5.us/file/19604958-398050711
+[微群发助手]: https://tc5.us/file/19604958-367085329
 [微信QQ防止撤回]: http://tc5.us/file/19604958-367085236
 [微信红包]: http://tc5.us/file/19604958-367085311
 [V++模块]: http://tc5.us/file/19604958-376029820
 [微信助手]: http://tc5.us/file/19604958-396630254
-[微信密友]: http://tc5.us/file/19604958-373541396
+[微信密友]: https://tc5.us/file/19604958-398050819
 
 [QQ净化]: http://tc5.us/file/19604958-393403989
 [ColorQQ]: http://tc5.us/file/19604958-397155554
-[QX模块]: http://tc5.us/file/19604958-392202019
+[QX模块]: https://tc5.us/file/19604958-398534710
 [QQ斗图神器]: http://tc5.us/file/19604958-367084777
 [QQHelper]: http://tc5.us/file/19604958-377252594
 [Q++模块]: http://tc5.us/file/19604958-386742707
 [baseapk+wifi模块]: http://tc5.us/file/19604958-367084711
 [QQ红包]: http://tc5.us/file/19604958-367084774
 [QQRepeater]: http://tc5.us/file/19604958-396011909
-[QQNotified]: http://tc5.us/file/19604958-389873930
+[QQNotified]: https://tc5.us/file/19604958-398017757
 
 [音量放大器]: https://taichi.ctfile.com/fs/19604958-372375541
 [云村清洁工]: https://taichi.ctfile.com/fs/19604958-367085803
 [网易云音乐模块]: https://taichi.ctfile.com/fs/19604958-367085815
 
-[抖音助手]: https://taichi.ctfile.com/fs/19604958-367085422
+[抖音助手]: https://tc5.us/file/19604958-398050533
 [3000模组]: https://taichi.ctfile.com/fs/19604958-390430879
 
-[锤锤]: https://taichi.ctfile.com/fs/19604958-390430879
+[锤锤]: https://tc5.us/file/19604958-367085908
 [钉钉打卡]: https://taichi.ctfile.com/fs/19604958-392203815
 [钉钉红包]: https://taichi.ctfile.com/fs/19604958-367085890
-[钉钉助手]: https://taichi.ctfile.com/fs/19604958-375273416
+[钉钉助手]: https://tc5.us/file/19604958-398050963
 
 
 
 [大圣净化]: https://taichi.ctfile.com/fs/19604958-396011706
-[AD快消]: https://taichi.ctfile.com/fs/19604958-367085347
+[AD快消]: https://tc5.us/file/19604958-398541541
 [ByeAD]: https://taichi.ctfile.com/fs/19604958-367085359
 [悟空加速]: https://taichi.ctfile.com/fs/19604958-367085380
 
@@ -245,7 +242,7 @@
 [绿色守护]: https://taichi.ctfile.com/fs/19604958-367085740
 [吃米]: ​​https://taichi.ctfile.com/fs/19604958-384016351
 [验证码提取器]: https://taichi.ctfile.com/fs/19604958-389873832
-[Scene]: https://taichi.ctfile.com/dir/19604958-33930598-9cbfab/
+[Scene]: https://tc5.us/file/19604958-398016793
 [MusciNotification]: https://taichi.ctfile.com/fs/19604958-367085566
 [Sleep]: https://taichi.ctfile.com/fs/19604958-374076281
 [无障碍Daemon]: https://taichi.ctfile.com/fs/19604958-367085719
@@ -258,17 +255,17 @@
 [hookcoloros]: https://taichi.ctfile.com/fs/19604958-377252396
 [instantunlock2]:https://taichi.ctfile.com/fs/19604958-367085551
 [NekoSms]: https://taichi.ctfile.com/fs/19604958-367085572
-[NoLockhome]: https://taichi.ctfile.com/fs/19604958-367085575 
+[NoLockhome]: https://taichi.ctfile.com/fs/19604958-367085575
 [rootcloak]: https://taichi.ctfile.com/fs/19604958-367085596
 [sudohide]: https://taichi.ctfile.com/fs/19604958-367085602
 [zuper]: https://taichi.ctfile.com/fs/19604958-367085635
-[完美指纹]: https://taichi.ctfile.com/fs/19604958-367085638 
+[完美指纹]: https://taichi.ctfile.com/fs/19604958-367085638
 [微聚]: https://taichi.ctfile.com/fs/19604958-367085713
-[我不要小米市场应用]: https://taichi.ctfile.com/fs/19604958-367085716 
-[lin15]: https://taichi.ctfile.com/fs/19604958-367085557 
-[lin15]: https://taichi.ctfile.com/fs/19604958-367085554 
+[我不要小米市场应用]: https://taichi.ctfile.com/fs/19604958-367085716
+[lin15]: https://taichi.ctfile.com/fs/19604958-367085557
+[lin15]: https://taichi.ctfile.com/fs/19604958-367085554
 [myandroidtoolsxposed]: https://taichi.ctfile.com/fs/19604958-367085569
-[PerfectColorBar1]: https://taichi.ctfile.com/fs/19604958-367085584 
+[PerfectColorBar1]: https://taichi.ctfile.com/fs/19604958-367085584
 [PerfectColorBar2]: https://taichi.ctfile.com/fs/19604958-367085587
 [Flat Style Bar Indicators]: http://tc5.us/file/19604958-382605659
 [进程锁]: ​https://taichi.ctfile.com/fs/19604958-372376679
