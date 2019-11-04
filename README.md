@@ -4,7 +4,7 @@
 
 ## Introduction 
 
-TaiChi is a framework to use Xposed module with or **without** Root/Unlock bootloader, it support Android 5.0 ~ **9.0**.
+TaiChi is a framework to use Xposed module with or **without** Root/Unlock bootloader, it support Android 5.0 ~ **10**.
 
 In simple words, TaiChi is a **Xposed-Styled** Framework, it can load Xposed modules, do hooks and so on.
 
@@ -14,7 +14,7 @@ TaiChi is Xposed-Styled, but it has no relation with Xposed. The only relevance 
 
 Here are some features of Taichi:
 
-1. TaiChi has **fully supports for Android Pie**.
+1. TaiChi has **fully supports for Android 10**.
 2. TaiChi can run in **non-root mode**.
 3. TaiChi does not effect the android system and it does not hook all apps in system. Only the apps you want to apply Xposed modules are hooked. Other apps in system run in a completely clean environment, which means TaiChi can **pass SafetyNet easily**.
 4. TaiChi **doesn't need to reboot** sysytem in most cases.
