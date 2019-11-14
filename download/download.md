@@ -27,9 +27,8 @@ If you want to use Magisk mode of TaiChi, you must flash Magisk module of TaiChi
 
 By the way, you can follow [TaiChi-Magisk][taichi-magisk] to get latest news.
 
-[stable1]: https://taichi.ctfile.com/fs/19604958-392229810
-[stable2]: https://www.lanzous.com/i5ibuva
-[daily-build]: https://github.com/taichi-framework/Daily-Build/releases
-[taichi-magisk17]: https://taichi.ctfile.com/fs/19604958-392230210
+[stable1]: https://tc5.us/file/19604958-402658311
+[stable2]: https://github.com/taichi-framework/TaiChi/releases
+[taichi-magisk17]: https://tc5.us/file/19604958-402348911
 [taichi-magisk16]: https://www.lanzous.com/i37r5kh
 [taichi-magisk]: https://github.com/taichi-framework/TaiChi-Magisk/releases
